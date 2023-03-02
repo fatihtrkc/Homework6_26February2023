@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FatihTarakcı_Homework6_Soru6/1.0.0": {
+        "runtime": {
+          "FatihTarakcı_Homework6_Soru6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FatihTarakcı_Homework6_Soru6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

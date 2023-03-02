@@ -1,0 +1,15 @@
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\bin\Debug\net6.0\FatihTarakcı_Homework6_Soru5.exe
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\bin\Debug\net6.0\FatihTarakcı_Homework6_Soru5.deps.json
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\bin\Debug\net6.0\FatihTarakcı_Homework6_Soru5.runtimeconfig.json
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\bin\Debug\net6.0\FatihTarakcı_Homework6_Soru5.dll
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\bin\Debug\net6.0\FatihTarakcı_Homework6_Soru5.pdb
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.csproj.AssemblyReference.cache
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.AssemblyInfoInputs.cache
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.AssemblyInfo.cs
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.csproj.CoreCompileInputs.cache
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.dll
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\refint\FatihTarakcı_Homework6_Soru5.dll
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.pdb
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\FatihTarakcı_Homework6_Soru5.genruntimeconfig.cache
+C:\Users\yasumas\Desktop\BilgeAdam_VisualStudioApp\FatihTarakcı_Homework6_Soru5\obj\Debug\net6.0\ref\FatihTarakcı_Homework6_Soru5.dll
